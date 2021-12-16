@@ -32,10 +32,17 @@ all four of the hemisphere images. We will use BeautifulSoup and Splinter to scr
      The webpage is mobile-responsive
      Two additional Bootstrap 3 components are used to style the webpage
 
-   ![Deliverable3a](Images/Deliverable3a.PNG)
-   ![Deliverable3b](Images/Deliverable3b.PNG)
-   ![Deliverable3c](Images/Deliverable3c.PNG)
-   ![Deliverable3d1](Images/Deliverable3d1.PNG)
-   ![Deliverable3d2](Images/Deliverable3d2.PNG)
-   ![Deliverable3e1](Images/Deliverable3e1.PNG)
-   ![Deliverable3e2](Images/Deliverable3e2.PNG)
+ ![Deliverable3a](Images/Deliverable3a.PNG)
+   
+ ![Deliverable3b](Images/Deliverable3b.PNG)
+ 
+ ![Deliverable3c](Images/Deliverable3c.PNG)
+ 
+ ![Deliverable3d1](Images/Deliverable3d1.PNG)
+ 
+ ![Deliverable3d2](Images/Deliverable3d2.PNG)
+ 
+ ![Deliverable3e1](Images/Deliverable3e1.PNG)
+ 
+ ![Deliverable3e2](Images/Deliverable3e2.PNG)
+ 
