@@ -22,26 +22,28 @@ all four of the hemisphere images. We will use BeautifulSoup and Splinter to scr
      4-After the scraping has been completed, the web app contains all the information from this module and the full-resolution images and titles for the four hemisphere images
      
 
- ![Deliverable1b](Images/Deliverable1b.PNG)   
+ ![deliverable2a](Images/deliverable2a.PNG)   
  
- ![Deliverable1a](Images/Deliverable1a.PNG)
+ ![deliverable2b](Images/deliverable2b.PNG)
+ 
+ ![deliverable2c](Images/deliverable2c.PNG)
  
   ## Deliverable 3
 
      The webpage is mobile-responsive
      Two additional Bootstrap 3 components are used to style the webpage
 
- ![Deliverable3a](Images/Deliverable3a.PNG)
+ ![deliverable3a](Images/deliverable3a.PNG)
    
- ![Deliverable3b](Images/Deliverable3b.PNG)
+ ![deliverable3b](Images/deliverable3b.PNG)
  
- ![Deliverable3c](Images/Deliverable3c.PNG)
+ ![deliverable3c](Images/deliverable3c.PNG)
  
- ![Deliverable3d1](Images/Deliverable3d1.PNG)
+ ![deliverable3d1](Images/deliverable3d1.PNG)
  
- ![Deliverable3d2](Images/Deliverable3d2.PNG)
+ ![deliverable3d2](Images/deliverable3d2.PNG)
  
- ![Deliverable3e1](Images/Deliverable3e1.PNG)
+ ![deliverable3e1](Images/deliverable3e1.PNG)
  
- ![Deliverable3e2](Images/Deliverable3e2.PNG)
+ ![deliverable3e2](Images/deliverable3e2.PNG)
  
