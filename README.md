@@ -19,7 +19,8 @@ all four of the hemisphere images. We will use BeautifulSoup and Splinter to scr
      1-The scraping.py file contains code that retrieves the full-resolution image URL and title for each hemisphere image
      2-The Mongo database is updated to contain the full-resolution image URL and title for each hemisphere image  
      3-Index.html file contains code that will display the full-resolution image URL and title for each hemisphere image  
-     4-After the scraping has been completed, the web app contains all the information from this module and the full-resolution images and titles for the four hemisphere images 
+     4-After the scraping has been completed, the web app contains all the information from this module and the full-resolution images and titles for the four hemisphere images
+     
 
  ![Deliverable2a](Images/Deliverable2a.PNG)
   
