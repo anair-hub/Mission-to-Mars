@@ -10,9 +10,10 @@ all four of the hemisphere images. We will use BeautifulSoup and Splinter to scr
      3-The titles for the hemisphere images are added to the dictionary
      4-The list contains the dictionary of the full-resolution image URL string and title for each hemisphere image
 
-     ![Deliverable1b](Images/Deliverable1b.PNG)   
-
-     ![Deliverable1a](Images/Deliverable1a.PNG)
+ ![Deliverable1b](Images/Deliverable1b.PNG)   
+ 
+ ![Deliverable1a](Images/Deliverable1a.PNG)
+ 
      
   ## Deliverable 2
      1-The scraping.py file contains code that retrieves the full-resolution image URL and title for each hemisphere image
