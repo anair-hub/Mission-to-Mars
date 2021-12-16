@@ -22,11 +22,10 @@ all four of the hemisphere images. We will use BeautifulSoup and Splinter to scr
      4-After the scraping has been completed, the web app contains all the information from this module and the full-resolution images and titles for the four hemisphere images 
 
  ![Deliverable2a](Images/Deliverable2a.PNG)
-
+ 
  ![Deliverable2b](Images/Deliverable2b.PNG)
-
+ 
  ![Deliverable2c](Images/Deliverable2c.PNG)
-
 
   ## Deliverable 3
 
